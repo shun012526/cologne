@@ -2,9 +2,9 @@
 - 香水お試しサイト
 
 ### HOW TO BUILD
-1. clone github
+1. clone project
 ```
-git clone 
+git clone git@github.com:shun012526/cologne.git
 ```
 
 2. build by local
